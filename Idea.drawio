@@ -1,17 +1,94 @@
-<mxfile host="app.diagrams.net" modified="2024-04-14T18:24:02.543Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="UCwXUKVUaHLDvNm2I1rV" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-14T18:38:43.490Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="L_EFaQHe0j0XN_MmRgDX" version="22.1.18" type="github">
   <diagram name="Page-1" id="9f46799a-70d6-7492-0946-bef42562c5a5">
-    <mxGraphModel dx="954" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2120" dy="2197" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="X4OJprI_7IS4hClAfw5g-1" value="&lt;h1&gt;Dream Board&lt;/h1&gt;&lt;p&gt;A nice blog site with graphical interface to capture ideas on the go, allows for text searching, intelligent API assisted research&lt;/p&gt;" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="40" y="40" width="1010" height="120" as="geometry" />
+        <mxCell id="X4OJprI_7IS4hClAfw5g-1" value="&lt;h1&gt;Dream Board&lt;/h1&gt;&lt;div style=&quot;box-sizing: border-box; position: relative; color: rgb(31, 35, 40); font-family: -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Noto Sans&amp;quot;, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;; font-size: 16px; background-color: rgb(255, 255, 255); margin-top: 0px !important;&quot; dir=&quot;auto&quot; class=&quot;markdown-heading&quot;&gt;&lt;a style=&quot;box-sizing: border-box; background-color: transparent; float: left; padding-right: 4px; margin: auto; line-height: 1; position: absolute; top: 25.2969px; left: -28px; display: flex; width: 28px; height: 28px; border-radius: 6px; opacity: 1; justify-content: center; align-items: center; transform: translateY(calc(-50% - 0.3rem)); text-underline-offset: 0.2rem;&quot; href=&quot;https://github.com/photon2021/dream_board/tree/main#dream-board&quot; aria-label=&quot;Permalink: Dream Board&quot; class=&quot;anchor&quot; id=&quot;user-content-dream-board&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; width=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; class=&quot;octicon octicon-link&quot;&gt;&lt;path d=&quot;m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/div&gt;&lt;p style=&quot;box-sizing: border-box; margin-top: 0px; margin-bottom: 16px; color: rgb(31, 35, 40); font-family: -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Noto Sans&amp;quot;, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;; font-size: 16px; background-color: rgb(255, 255, 255);&quot; dir=&quot;auto&quot;&gt;Dream Board Project :&lt;/p&gt;&lt;ul style=&quot;box-sizing: border-box; padding-left: 2em; margin-top: 0px; margin-bottom: 16px; color: rgb(31, 35, 40); font-family: -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Noto Sans&amp;quot;, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;; font-size: 16px; background-color: rgb(255, 255, 255);&quot; dir=&quot;auto&quot;&gt;&lt;li style=&quot;box-sizing: border-box;&quot;&gt;A nice note taking tool that can capture ideas in a graphical format. Helps you visualise, find notes.&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box; margin-top: 0.25em;&quot;&gt;Visual and intuitive interface&lt;/li&gt;&lt;/ul&gt;&lt;div style=&quot;box-sizing: border-box; position: relative; color: rgb(31, 35, 40); font-family: -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Noto Sans&amp;quot;, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;; font-size: 16px; background-color: rgb(255, 255, 255);&quot; dir=&quot;auto&quot; class=&quot;markdown-heading&quot;&gt;&lt;h1 style=&quot;box-sizing: border-box; margin: 24px 0px 16px; font-weight: var(--base-text-weight-semibold, 600); line-height: 1.25; padding-bottom: 0.3em; border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));&quot; dir=&quot;auto&quot; class=&quot;heading-element&quot; tabindex=&quot;-1&quot;&gt;Vision&lt;/h1&gt;&lt;a style=&quot;box-sizing: border-box; background-color: transparent; float: left; padding-right: 4px; margin: auto; line-height: 1; position: absolute; top: 25.2969px; left: -28px; display: flex; width: 28px; height: 28px; border-radius: 6px; opacity: 0; justify-content: center; align-items: center; transform: translateY(calc(-50% - 0.3rem)); text-underline-offset: 0.2rem;&quot; href=&quot;https://github.com/photon2021/dream_board/tree/main#vision&quot; aria-label=&quot;Permalink: Vision&quot; class=&quot;anchor&quot; id=&quot;user-content-vision&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; width=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; class=&quot;octicon octicon-link&quot;&gt;&lt;path d=&quot;m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/div&gt;&lt;ul style=&quot;box-sizing: border-box; padding-left: 2em; margin-top: 0px; color: rgb(31, 35, 40); font-family: -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Noto Sans&amp;quot;, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;; font-size: 16px; background-color: rgb(255, 255, 255); margin-bottom: 0px !important;&quot; dir=&quot;auto&quot;&gt;&lt;li style=&quot;box-sizing: border-box;&quot;&gt;A web interface, mobile interface, tab interface , mind interface - capturing notes everywhere from you.&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box; margin-top: 0.25em;&quot;&gt;Ability to understand and design commands.&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box; margin-top: 0.25em;&quot;&gt;Ability to summarise the reminders together - Makes todo list on the go&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box; margin-top: 0.25em;&quot;&gt;Calendars interfacing. It&#39;s like a personal assistant.&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box; margin-top: 0.25em;&quot;&gt;Generative AI Capabilities as API&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box; margin-top: 0.25em;&quot;&gt;Next Gen Note taking software.&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box; margin-top: 0.25em;&quot;&gt;Data storage - local and cloud&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="40" width="1010" height="400" as="geometry" />
         </mxCell>
-        <mxCell id="X4OJprI_7IS4hClAfw5g-2" value="You" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="500" y="350" width="120" height="80" as="geometry" />
+        <mxCell id="uA_axZ28eA8xS8924bOH-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.16;exitY=0.55;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="X4OJprI_7IS4hClAfw5g-2" target="uA_axZ28eA8xS8924bOH-13">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="X4OJprI_7IS4hClAfw5g-3" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="350" y="260" width="120" height="80" as="geometry" />
+        <mxCell id="uA_axZ28eA8xS8924bOH-19" value="Yeah, I think this can be quite interesting !" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uA_axZ28eA8xS8924bOH-18">
+          <mxGeometry x="0.1312" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X4OJprI_7IS4hClAfw5g-2" value="You" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="700" y="560" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="X4OJprI_7IS4hClAfw5g-3" value="Idea #1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="310" y="630" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="uA_axZ28eA8xS8924bOH-1" value="Loosely &lt;br&gt;Connected to&lt;br&gt;Idea #1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="280" y="550" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="uA_axZ28eA8xS8924bOH-3" value="Idea #2" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="360" y="740" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="uA_axZ28eA8xS8924bOH-6" value="Idea #3" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="270" y="740" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="uA_axZ28eA8xS8924bOH-7" value="Reminders" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="770" width="320" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="uA_axZ28eA8xS8924bOH-8" value="Idea #1 : Task 1 : By 15:00" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="uA_axZ28eA8xS8924bOH-7">
+          <mxGeometry y="30" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uA_axZ28eA8xS8924bOH-9" value="Idea #2 : Task 2 : By 31st March 2024" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="uA_axZ28eA8xS8924bOH-7">
+          <mxGeometry y="60" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uA_axZ28eA8xS8924bOH-11" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.55;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="uA_axZ28eA8xS8924bOH-7" target="X4OJprI_7IS4hClAfw5g-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uA_axZ28eA8xS8924bOH-12" value="Assisted Reminders // Human setting" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uA_axZ28eA8xS8924bOH-11">
+          <mxGeometry x="-0.1861" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uA_axZ28eA8xS8924bOH-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="uA_axZ28eA8xS8924bOH-13" target="uA_axZ28eA8xS8924bOH-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uA_axZ28eA8xS8924bOH-13" value="Gen AI (Local)" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="50" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uA_axZ28eA8xS8924bOH-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.07;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="uA_axZ28eA8xS8924bOH-13" target="X4OJprI_7IS4hClAfw5g-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uA_axZ28eA8xS8924bOH-16" value="Reverse Prompts - what you said was interesting ,&lt;br&gt;&amp;nbsp;have you also considered this ?&amp;nbsp;&lt;br&gt;Comes back with some answers before hand" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uA_axZ28eA8xS8924bOH-15">
+          <mxGeometry x="-0.1293" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uA_axZ28eA8xS8924bOH-17" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.07;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="uA_axZ28eA8xS8924bOH-13" target="uA_axZ28eA8xS8924bOH-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uA_axZ28eA8xS8924bOH-21" value="Positive &lt;br&gt;feedback&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uA_axZ28eA8xS8924bOH-17">
+          <mxGeometry x="-0.0729" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uA_axZ28eA8xS8924bOH-20" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.55;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.4;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="uA_axZ28eA8xS8924bOH-1" target="X4OJprI_7IS4hClAfw5g-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uA_axZ28eA8xS8924bOH-24" value="Similar ideas" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="120" y="590" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="uA_axZ28eA8xS8924bOH-25" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.875;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.13;entryY=0.77;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;dashPattern=12 12;" edge="1" parent="1" source="uA_axZ28eA8xS8924bOH-24" target="uA_axZ28eA8xS8924bOH-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uA_axZ28eA8xS8924bOH-26" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.4;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="uA_axZ28eA8xS8924bOH-13" target="uA_axZ28eA8xS8924bOH-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uA_axZ28eA8xS8924bOH-27" value="Idea" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="940" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uA_axZ28eA8xS8924bOH-28" value="&lt;h1&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Idea&lt;/span&gt;&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;The personality of an individual is an idea. The Gen AI assistant helps in building the personality&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="361" y="930" width="249" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="uA_axZ28eA8xS8924bOH-29" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="-10" width="1080" height="1100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
